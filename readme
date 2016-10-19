@@ -1,0 +1,8 @@
+file name: calendar_manage.py
+comunicate with google calendar. you should follow the step 1 in link below. 
+https://developers.google.com/google-apps/calendar/quickstart/python
+
+After that, modify the path for CLIENT_SECRET_FILE in clendar_manage.py
+
+
+
